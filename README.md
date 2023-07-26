@@ -1,4 +1,4 @@
-# ChatGPT-Based-Virtual-Assistant
+# ChatGPT-Based Virtual-Assistant
 Super Dynamic Virtual Assistant Using ChatGPT
 
 This project is implemented on Pycharm.
